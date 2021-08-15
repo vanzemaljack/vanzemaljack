@@ -4,7 +4,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 
 **Junior Full Stack** Web developer. I am passionate about challenges and being in constant evolution.
 
-## Front End: 
+## Front End
 
 * JavaScript 
 * ES6 
@@ -16,7 +16,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 * Vue.js
 * EJS
 
-## Back End:
+## Back End
 
 * Node.js 
 * Express
@@ -28,7 +28,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 * Postman
 * Mailchimp
 
-### Design Tools: 
+### Design Tools
 
 * Figma
 * Photoshop
