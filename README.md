@@ -6,8 +6,8 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 
 ## Front End
 
-* JavaScript 
-* ES6 
+* JavaScript
+* ES6
 * HTML
 * CSS
 * Bootstrap
@@ -18,7 +18,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 
 ## Back End
 
-* Node.js 
+* Node.js
 * Express
 * MongoDB
 * SQL
@@ -37,7 +37,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 
 ##### Certain knowledge in **Authentication and Security**
 
-### Find me at:
+### Find me at
 
 * [LinkedIn](https://www.linkedin.com/in/gregorio-vilardo-ab2240211/)
 
