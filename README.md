@@ -33,7 +33,7 @@ My name is **Gregorio Vilardo (@vanzemaljack)**
 * Figma
 * Photoshop
 
-#### Management and creation of **RESTful API**.
+#### Management and creation of **RESTful API**
 
 ##### Certain knowledge in **Authentication and Security**
 
