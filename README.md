@@ -6,8 +6,8 @@ Desarrollador web **Full Stack**. Me apasionan los desafíos y estar en constant
 ### Manejo y creación de *RESTful API*.
 Cierto conocimiento en _**autenticación y seguridad.**_
 ### Find me at:
-- [LinkedIn] https://www.linkedin.com/in/gregorio-vilardo-ab2240211/
-- [Email] gregovilardo@gmail.com
-- [Instagram] www.instagram.com/gregovilardo
+- [LinkedIn](https://www.linkedin.com/in/gregorio-vilardo-ab2240211/)
+- [Email](gregovilardo@gmail.com)
+- [Instagram](www.instagram.com/gregovilardo)
 
 
