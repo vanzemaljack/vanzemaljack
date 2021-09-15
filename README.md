@@ -2,7 +2,7 @@
 
 My name is **Gregorio Vilardo (@vanzemaljack)**
 
-**Junior Full Stack** Web developer. I am passionate about challenges and being in constant evolution.
+**Full Stack** Web developer. I am passionate about challenges and being in constant evolution.
 
 ## Front End
 
