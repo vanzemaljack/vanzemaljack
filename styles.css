@@ -394,6 +394,8 @@ a:active {
         top: 29.1vh;
     }
     .btn {
+        position: relative;
+        top: 38.55vh;
         /* margin-top: 38.55vh; */
         padding-bottom: 3vh;
     }
@@ -409,7 +411,7 @@ a:active {
     }
 
     .btn {
-        /* margin-top: 34.55vh; */
+        top: 34.55vh;
         padding-bottom: 3vh;
     }
 }
@@ -594,11 +596,18 @@ html.is-animating .transition-fade {
 }
 
 @media screen and (max-width: 1025px) {
+    .container-projects img{
+        width: 100%;
+        height: 100%;
+    }
     .grid-project {
         grid-template-columns: 500px;
     }
     .grid-project img {
         max-width: 100%;
+    }
+    .svg-container-pr{
+        margin-top: 3vh;
     }
 }
 
@@ -607,6 +616,7 @@ html.is-animating .transition-fade {
         grid-template-columns: 300px;
     }
     .grid-project img {
+        
         max-width: 100%;
     }
 }
