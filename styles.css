@@ -407,7 +407,7 @@ a:active {
         left: 0;
         top: 29.1vh;
     }
-    .btn {
+    .res {
         position: relative;
         top: 38.55vh;
         /* margin-top: 38.55vh; */
@@ -424,7 +424,7 @@ a:active {
         pointer-events: none;
     }
 
-    .btn {
+    .res {
         top: 34.55vh;
         padding-bottom: 3vh;
     }
