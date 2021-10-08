@@ -1,6 +1,6 @@
 # Hello World
 
-My name is **Gregorio Vilardo (@vanzemaljack)**
+My name is **Gregorio Vilardo (@gregovilardo)**
 
 **Full Stack** Web developer. I am passionate about challenges and being in constant evolution.
 
