@@ -216,7 +216,7 @@ a:active {
     text-shadow: 0px 6px 11px rgba(0, 0, 0, 0.38);
 }
 
-.titles::before{
+.in::before{
     position: absolute;
     margin-top: -1.3rem;
     margin-left: -0.8rem;
