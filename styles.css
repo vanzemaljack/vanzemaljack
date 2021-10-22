@@ -232,7 +232,7 @@ a:active {
 }
 
 .index-scd-text{
-    width: 24rem
+    width: min(24rem, 90vw)
 }
 
 .secondary-text text {
