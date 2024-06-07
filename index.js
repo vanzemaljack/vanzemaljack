@@ -7,55 +7,55 @@ const contact = document.querySelector("#contact");
 url = "http://127.0.0.1:5501";
 
 let myInterval = setInterval(() => {
-    nav_color();
-    load_project_vv();
-    load_project_slackeala();
+  nav_color();
+  load_project_vv();
+  load_project_slackeala();
 }, 500);
 
 // setTimeout(()=>{clearInterval(myInterval)}, 10000);
 
 function nav_color() {
-    if (window.location.href === `${url}/index.html`) {
-        home.style.color = "#7eca9c";
-        about.style.color = "#ffff";
-        projects.style.color = "#ffff";
-    } else if (window.location.href === `${url}/about.html`) {
-        about.style.color = "#7eca9c";
-        home.style.color = "#ffff";
-        projects.style.color = "#ffff";
-    } else if (window.location.href === `${url}/projects.html`) {
-        projects.style.color = "#7eca9c";
-        about.style.color = "#ffff";
-        home.style.color = "#ffff";
-    }
+  if (window.location.href === `${url}/index.html`) {
+    home.style.color = "#7eca9c";
+    about.style.color = "#ffff";
+    projects.style.color = "#ffff";
+  } else if (window.location.href === `${url}/about.html`) {
+    about.style.color = "#7eca9c";
+    home.style.color = "#ffff";
+    projects.style.color = "#ffff";
+  } else if (window.location.href === `${url}/projects.html`) {
+    projects.style.color = "#7eca9c";
+    about.style.color = "#ffff";
+    home.style.color = "#ffff";
+  }
 }
 
 function load_project_vv() {
-    let link_project = document.querySelector("#link-pr-vv");
-    if (link_project) {
-        link_project.onclick = () => {
-            location.href = "/vidriosvilardo.html";
-        };
-        link_project.addEventListener("keyup", (e) => {
-            if (e.keyCode === 13) {
-                return (location.href = "/vidriosvilardo.html");
-            }
-        });
-    }
+  let link_project = document.querySelector("#link-pr-vv");
+  if (link_project) {
+    link_project.onclick = () => {
+      location.href = "/vidriosvilardo.html";
+    };
+    link_project.addEventListener("keyup", (e) => {
+      if (e.keyCode === 13) {
+        return (location.href = "/vidriosvilardo.html");
+      }
+    });
+  }
 }
 
 function load_project_slackeala() {
-    let link_project = document.querySelector("#link-pr-slackeala");
-    if (link_project) {
-        link_project.onclick = () => {
-            location.href = "/slackeala.html";
-        };
-        link_project.addEventListener("keyup", (e) => {
-            if (e.keyCode === 13) {
-                return (location.href = "/slackeala.html");
-            }
-        });
-    }
+  let link_project = document.querySelector("#link-pr-slackeala");
+  if (link_project) {
+    link_project.onclick = () => {
+      location.href = "/slackeala.html";
+    };
+    link_project.addEventListener("keyup", (e) => {
+      if (e.keyCode === 13) {
+        return (location.href = "/slackeala.html");
+      }
+    });
+  }
 }
 
 // const navSlide = () => {
@@ -94,8 +94,8 @@ const navMenu = document.querySelector(".nav-menu");
 hamburger.addEventListener("click", mobileMenu);
 
 function mobileMenu() {
-    hamburger.classList.toggle("active");
-    navMenu.classList.toggle("active");
+  hamburger.classList.toggle("active");
+  navMenu.classList.toggle("active");
 }
 
 const navLink = document.querySelectorAll(".nav-link");
@@ -103,6 +103,6 @@ const navLink = document.querySelectorAll(".nav-link");
 navLink.forEach(n => n.addEventListener("click", closeMenu));
 
 function closeMenu() {
-    hamburger.classList.remove("active");
-    navMenu.classList.remove("active");
+  hamburger.classList.remove("active");
+  navMenu.classList.remove("active");
 }
